@@ -7,13 +7,7 @@
 
 A multi-view **ViT-Small/16** initialised with **SiT-S self-supervised weights** that jointly predicts **ACL tears, meniscal tears, and general abnormalities** from all three planes of a knee MRI exam (sagittal, coronal, axial) on the Stanford **MRNet** dataset.
 
-> Coursework project for **EEEM068 Applied Machine Learning**, University of Surrey (Spring 2026).
-> 📄 Full write-up: [`report/EEM068_Report.pdf`](report/EEM068_Report.pdf)
 
-<!-- Replace with a real figure from mrnet_outputs/, e.g. attention_maps.png -->
-<p align="center">
-  <img src="assets/attention_maps.png" width="85%" alt="Attention rollout maps on sagittal MRI slices">
-</p>
 
 ---
 
@@ -159,7 +153,3 @@ The full reference list is in the [report](report/EEM068_Report.pdf).
 - The [`timm`](https://github.com/huggingface/pytorch-image-models) library
 - University of Surrey, EEEM068 Applied Machine Learning
 
-## Author
-
-**[Your Name]** — MSc, University of Surrey
-[LinkedIn](https://linkedin.com/in/your-profile) · [Email](mailto:you@example.com)
